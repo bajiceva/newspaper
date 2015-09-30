@@ -1,6 +1,6 @@
 # newspaper
 
-A Clojure library designed to create, read, update and delete news. Logged user can insert news and edit or delete existing once. User who is not logged can read and browse news by type.
+A Clojure application designed to create, read, update and delete news. Logged user can insert news and edit or delete existing once. User who is not logged can read and browse news by type.
 
 Test user:
 * username: test
